@@ -1,0 +1,16 @@
+{
+    "version": "0.9.4-scoop",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/gabrielrobert/xavtool/releases/download/0.9.4-scoop/xavtool_0.9.4-scoop_Windows_i386.tar.gz",
+            "bin": "xavtool.exe"
+        },
+        "64bit": {
+            "url": "https://github.com/gabrielrobert/xavtool/releases/download/0.9.4-scoop/xavtool_0.9.4-scoop_Windows_x86_64.tar.gz",
+            "bin": "xavtool.exe"
+        }
+    },
+    "homepage": "https://github.com/gabrielrobert/xavtool",
+    "license": "MIT",
+    "description": "Xamarin Automating Version Tool"
+}
