@@ -1,15 +1,15 @@
 {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/gabrielrobert/xavtool/releases/download/1.2.0/xavtool_1.2.0_windows_32-bit.tar.gz",
+            "url": "https://github.com/gabrielrobert/xavtool/releases/download/1.2.1/xavtool_1.2.1_windows_32-bit.tar.gz",
             "bin": "xavtool.exe",
-            "hash": "e968f15f4e2971296d46b9a05d097bdd67261563d101a0bbf6d9e20680125c19"
+            "hash": "d899ae55a3551c8148071fe22dfae8437058c5180a34fece78200ce203a670e0"
         },
         "64bit": {
-            "url": "https://github.com/gabrielrobert/xavtool/releases/download/1.2.0/xavtool_1.2.0_windows_64-bit.tar.gz",
+            "url": "https://github.com/gabrielrobert/xavtool/releases/download/1.2.1/xavtool_1.2.1_windows_64-bit.tar.gz",
             "bin": "xavtool.exe",
-            "hash": "4ed5bdf8a32e4756561bfc6d7a45a61acca841235bb50eb09f4fbc5a06ab4a1d"
+            "hash": "ad8f5282e365b0eed8660d90f8de4bc991919d9cd233607e44386f4075c42c43"
         }
     },
     "homepage": "https://github.com/gabrielrobert/xavtool",
